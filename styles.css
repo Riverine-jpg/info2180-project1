@@ -239,8 +239,13 @@ main{
     border-color: #48BB78;
     border-style: solid;
     color: white;
+    cursor: pointer;
 }
 
+.message{
+    width: 100%;
+    padding-top:20px;
+}
 
 footer{
     grid-row: 3 / 4;
